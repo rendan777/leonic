@@ -81,3 +81,8 @@ body {
 .header-list-item:not(:last-child) {
     margin-right: 52px;
 }
+
+/* hero */
+.hero {
+    padding: 100px;
+}
